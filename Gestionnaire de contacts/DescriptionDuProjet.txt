@@ -1,0 +1,1 @@
+Un formulaire interactif en HTML, JavaScript et CSS3 avec des validations pour les champs obligatoires, des contrôles de format, et des effets visuels. Les données saisies sont sauvegardées localement avec jQuery, permettant également la suppression des contacts par clic ou glisser-déposer, accompagnée d'effets sonores et visuels.
